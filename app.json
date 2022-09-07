@@ -1,0 +1,8 @@
+{
+  "name": "My_Rat_App",
+  "displayName": "My_Rat_App",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5169010174450677~9210139982",
+    "ios_app_id": "ca-app-pub-5169010174450677~4116707351"
+  }
+}

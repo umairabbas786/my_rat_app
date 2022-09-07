@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384220477464",
+    "project_id": "my-rat-app-3ec2f",
+    "storage_bucket": "my-rat-app-3ec2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384220477464:android:f6bc39842a548d6ba1eb6d",
+        "android_client_info": {
+          "package_name": "com.my_rat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384220477464-ke8iped8nsvhefef9reveg6spr392e7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7A5pkUCJNZM_fMx0jtj60E_NYXWuhQaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384220477464-ke8iped8nsvhefef9reveg6spr392e7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
